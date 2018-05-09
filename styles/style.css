@@ -1,0 +1,96 @@
+
+
+.header-h1 {
+	color: green;
+}
+
+
+
+
+
+
+img {
+	display: block;
+	margin: auto;
+	padding: 0px 50px 50px 50px;
+	border: 5px solid black;
+}
+
+
+
+html {
+  font-size: 18px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'https://fonts.googleapis.com/css?family=Titan+One';
+  background-color: pink;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 50px 50px 50px;
+  border: 5px solid black;
+}
+
+h1 {
+	font-size: 25px;
+	text-align: center;
+	line-height: 2;
+	letter-spacing: 10px;
+}
+
+
+
+p,h1,ul {
+	color: red;
+	width: 500px;
+	border: 1px solid black;
+}
+
+
+.h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+.my-class {
+	/*font-family: 'Open Sans', sans-serif;*/
+	/*font-family: 'Titan One', cursive;*/
+	font-family: 'Pangolin', cursive;
+	/*font-family: 'Indie Flower';*/
+	color: green;
+	padding: 10px;
+	width: auto;
+	border: 5px solid;
+	margin: 50px;
+	background-color: yellow;
+	text-shadow: 3px 3px 3px pink;
+	/*display: block;*/
+}
+
+.my-class2 {
+	color: gray;
+	padding: 20px 100px;
+	width: auto;
+	border: 10px solid;
+	margin: 50px 100px;
+	background-color: yellow;
+	text-shadow: 3px 3px 3px pink;
+	text-align: center;
+	/*display: block*/;
+}
+
+a:hover {
+	background: red; /* Цвет фона под ссылкой */ 
+    color: green; /* Цвет ссылки */ 
+}
+
+a:link {
+    color: red; /* Цвет ссылок */
+    padding: 2px; /* Поля вокруг текста */ 
+   }
+
+
+
